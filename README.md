@@ -32,5 +32,26 @@ Creates a unified view of all customers by seamlessly joining GA4 data with CRM 
 ## Usage
 Here is the link to the google colab notebook.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/drive/1KTo9Vlz49kJ6FHPaOFuZNZ9wv0Z3-nzl?pli=1#scrollTo=2aOzphABtGV0)
+Follow the brief instructions in the colab notebook.
+
+## Requirements
+
+To deploy the workflow successfully:
+
+**GA4 Setup:**
+   - Validate correct flow of Purchase/E-Commerce events in GA4.
+   - Define and transfer User ID to the website data layer using GTM.
+   - Identify and introduce product-related fields using GTM.
+   - Set up the BigQuery GA4 link, enable Google Signals, and authorize users in GA4.
+   - Optionally configure data retention and implement E-Commerce events.
+**BigQuery Configuration:**
+   - Create a project, configure billing settings, and grant access to project members.
+**CRM Data Management:**
+   - Maintain and update user-level data in CRM, including User ID and corresponding hashed-email, user_id.
+   - Optionally include phone and address information.
+**Customer Match Automation:**
+   - optional: Obtain a developer's API token for uploading customer lists to Google Ads using API.
+   - optional: Test with Google Ads Data Manager
+
 
 
