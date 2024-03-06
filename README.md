@@ -31,6 +31,6 @@ Creates a unified view of all customers by seamlessly joining GA4 data with CRM 
 
 ## Usage
 Here is the link to the google colab notebook.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/googlestaging/project_ephesus/blob/main/GA4_user_id_datamart_builder_CRM_(Ephesus).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.sandbox.google.com/drive/1KTo9Vlz49kJ6FHPaOFuZNZ9wv0Z3-nzl?pli=1#scrollTo=2aOzphABtGV0)
 
 
