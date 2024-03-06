@@ -27,6 +27,6 @@ Creates a unified view of all customers by seamlessly joining GA4 data with CRM 
   - Enables the creation of datamarts for different time windows, catering to diverse measurement use cases.
 
 3. **Automation of Activation (Integration with Customer match using ads api)**
-  - Easily integrates with Customer Match through Ads API, providing enhanced advertising capabilities. (Google Ads Data Manager)
+  - Easily integrates with Customer Match through Ads API, providing enhanced advertising capabilities. (Recommended to test with Google Ads Data Manager)
 
 
