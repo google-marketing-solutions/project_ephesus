@@ -1,4 +1,4 @@
-# Project Ephesus - on progress
+# Project Ephesus - readme on progress
 - [Introduction](#introduction)
 - [Highlights](#highlights)
 - [Usage](#Usage)
