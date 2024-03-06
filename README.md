@@ -3,6 +3,7 @@
 - [Highlights](#highlights)
 - [Usage](#Usage)
 - [Requirements](#Requirements)
+- [Contributing](#Contributing)
 
 ## Introduction
 The workflow aims to establish a user-level datamart that is highly flexible for seamless integration with CRM data. The system includes built-in fields representing essential user information, such as geographic data, traffic sources, purchase behavior, and engagement behavior. The entire segmentation stage can be orchestrated efficiently using Google Colab.
@@ -53,5 +54,12 @@ To deploy the workflow successfully:
    - optional: Obtain a developer's API token for uploading customer lists to Google Ads using API.
    - optional: Test with Google Ads Data Manager
 
+## Contributing
+We welcome contributions from the open-source community!
+![Details](CONTRIBUTING.md)
+
+
+--
+*This is not an officially supported Google product.*
 
 
