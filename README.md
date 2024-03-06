@@ -56,6 +56,7 @@ To deploy the workflow successfully:
 
 ## Contributing
 We welcome contributions from the open-source community!
+
 ![Details](CONTRIBUTING.md)
 
 
