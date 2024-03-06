@@ -15,6 +15,7 @@ Can be easily integrated with Customer Match using Ads Api or Google Ads Data Ma
 ## Highlights
 
 1. **Holistic Customer View**
+   
 Creates a unified view of all customers by seamlessly joining GA4 data with CRM data. The output table data dictionary can be found inside google colab notebook.
   - Flexible Segmentation
   - Clustering methods
