@@ -4,6 +4,7 @@
 - [Usage](#Usage)
 - [Requirements](#Requirements)
 - [Contributing](#Contributing)
+- [License](#License)
 
 ## Introduction
 The workflow aims to establish a user-level datamart that is highly flexible for seamless integration with CRM data. The system includes built-in fields representing essential user information, such as geographic data, traffic sources, purchase behavior, and engagement behavior. The entire segmentation stage can be orchestrated efficiently using Google Colab.
@@ -59,6 +60,8 @@ We welcome contributions from the open-source community!
 
 [Details](CONTRIBUTING.md)
 
+## License
+This project is licensed under the [Apache License](LICENSE).
 
 --
 *This is not an officially supported Google product.*
