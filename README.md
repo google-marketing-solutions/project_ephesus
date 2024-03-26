@@ -48,11 +48,16 @@ To deploy the workflow successfully:
    - Identify and introduce product-related fields using GTM.
    - Set up the BigQuery GA4 link, enable Google Signals, and authorize users in GA4.
    - Optionally configure data retention and implement E-Commerce events.
+
+     
 **BigQuery Configuration:**
    - Create a project, configure billing settings, and grant access to project members.
+
+
 **CRM Data Management:**
    - Maintain and update user-level data in CRM, including User ID and corresponding hashed-email, user_id.
    - Optionally include phone and address information.
+
 **Customer Match Automation:**
    - optional: Obtain a developer's API token for uploading customer lists to Google Ads using API.
    - optional: Test with Google Ads Data Manager
