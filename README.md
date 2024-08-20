@@ -36,7 +36,7 @@ Here is the link to the google colab notebook.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](GA4_user_id_datamart_builder_CRM_(Ephesus).ipynb)
 
 
-Follow the brief instructions in the colab notebook.
+Download the notebook file. Open in google colab. Follow the brief instructions in the notebook.
 
 ## Requirements
 
